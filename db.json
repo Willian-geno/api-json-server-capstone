@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "willian_g_s_s4@hotmail.com",
+      "password": "$2a$10$ffbUcGqfDzqWSDmwTHS7wucz6i0R6Z7ql0uqcM8Ls2ZPigFCWE7YC",
+      "name": "Willian Gustavo da Silva Souza",
+      "birth_date": "28/02/2000",
+      "id": 2
+    }
+  ],
+  "messenge": [
+    {
+      "messenge": "Ola",
+      "userId": 1,
+      "userIdDestino": 2,
+      "id":1
+
+    },
+    {
+      "messenge": "Tudo Bem?",
+      "userId": 2,
+      "userIdDestino": 1,
+      "id":2
+    }
+  ],
+  "cars": [
+    {
+      "name": "kombi",
+      "marca": "volkswagen",
+      "capacidade": 8,
+      "userId": 2,
+      "id": 1,
+      "url_img":"https://quatrorodas.abril.com.br/wp-content/uploads/2020/09/Kombi-modelo-1959-vers%C3%A3o-luxo-da-Volkswagen-pertencente-a-Francisco-Varca-J%C3%BAni_2_2.jpg?quality=70&strip=info"
+    }
+  ]
+}
