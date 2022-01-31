@@ -10,7 +10,7 @@ app.db = router.db;
 
 const rules = auth.rewriter({
   users: 600,
-  messenge: 640,
+  messenge: 644,
   cars: 664,
   teste: 444,
 });
