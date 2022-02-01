@@ -24,81 +24,38 @@
       "id": 1
     },
     {
-      "messenge": "Ola",
-      "userId": 3,
+      "messenge": "Ola Tudo bem?",
+      "userId": 2,
       "name":"Willian Gustavo da Silva Souza",
       "userIdDestino": 1,
       "id": 2
     },
     {
-      "messenge": "Ola",
+      "messenge": "Quanto é o aluguel por 4 dias?",
       "userId": 2,
-      "name":"Fulano de tal",
+      "name":"Willian Gustavo da Silva Souza",
       "userIdDestino": 1,
       "id": 3
-    },
-    {
-      "messenge": "Esta vendenco o carro",
+    },{
+      "messenge": "Tudo sim e vc ?",
       "userId": 1,
-      "name":"Kenzinho",
+      "name":"kenzinho",
       "userIdDestino": 2,
       "id": 4
     },
     {
-      "messenge": "O carro Não estara Disponivel esse dia",
-      "userId": 3,
-      "name":"Willian Gustavo da Silva Souza",
-      "userIdDestino": 1,
+      "messenge": "Fica 400 reais",
+      "userId": 1,
+      "name":"kenzinho",
+      "userIdDestino": 2,
       "id": 5
     },
     {
-      "messenge": "Seria 400 reais os 7 dias",
+      "messenge": "Ok?",
       "userId": 2,
-      "name":"Fulano de tal",
+      "name":"Willian Gustavo da Silva Souza",
       "userIdDestino": 1,
       "id": 6
-    },
-    {
-      "messenge": "Esta vendenco o carro",
-      "userId": 1,
-      "name":"Kenzinho",
-      "userIdDestino": 2,
-      "id": 7
-    },
-    {
-      "messenge": "Qual o valor",
-      "userId": 3,
-      "name":"Willian Gustavo da Silva Souza",
-      "userIdDestino": 1,
-      "id": 8
-    },
-    {
-      "messenge": "Seria 400 reais os 7 dias",
-      "userId": 2,
-      "name":"Fulano de tal",
-      "userIdDestino": 1,
-      "id": 9
-    },
-    {
-      "messenge": "Esta vendenco o carro",
-      "userId": 1,
-      "name":"Kenzinho",
-      "userIdDestino": 2,
-      "id": 10
-    },
-    {
-      "messenge": "Qual o valor",
-      "userId": 3,
-      "name":"Willian Gustavo da Silva Souza",
-      "userIdDestino": 1,
-      "id":11
-    },
-    {
-      "messenge": "Seria 400 reais os 7 dias",
-      "userId": 2,
-      "name":"Fulano de tal",
-      "userIdDestino": 1,
-      "id": 12
     }
   ],
   "cars": [
