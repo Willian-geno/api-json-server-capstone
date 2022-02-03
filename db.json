@@ -8,11 +8,18 @@
       "id": 1
     },
     {
-      "email": "willian_g_s_s4@hotmail.com",
+      "email": "willian_g_s_s@hotmail.com",
       "password": "$2a$10$ffbUcGqfDzqWSDmwTHS7wucz6i0R6Z7ql0uqcM8Ls2ZPigFCWE7YC",
       "name": "Willian Gustavo da Silva Souza",
       "birth_date": "28/02/2000",
       "id": 2
+    },
+    {
+      "email": "ra110059@uem.br",
+      "password": "$2a$10$ffbUcGqfDzqWSDmwTHS7wucz6i0R6Z7ql0uqcM8Ls2ZPigFCWE7YC",
+      "name": "Willian uem",
+      "birth_date": "28/02/2000",
+      "id": 3
     }
   ],
   "messenge": [
